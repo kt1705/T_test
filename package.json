@@ -2,7 +2,7 @@
   "name": "t",
   "version": "1.0.0",
   "description": "GIT 수업 웹페이지\r 이것은",
-  "main": "new.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
